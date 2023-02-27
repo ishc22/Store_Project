@@ -1,4 +1,4 @@
-#Save inventory as string, makes things easier. 
+#Save inventory as string, makes things easier. hi
 inventory = """
 Here is a list of the candies we carry and their prices:
 \nKit Kat : $1.00
